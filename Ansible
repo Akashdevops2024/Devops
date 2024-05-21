@@ -1,1 +1,5 @@
+##Ansible Configuration File###
 
+/etc/ansible/ansible.cfg
+/etc/ansible/hosts
+/etc/ansible/roles
